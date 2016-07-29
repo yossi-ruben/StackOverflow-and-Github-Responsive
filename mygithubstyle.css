@@ -1,0 +1,13 @@
+.container {
+  max-width: 540px;
+}
+
+.file-wrap {
+  overflow: hidden;
+  overflow-x: scroll;
+}
+
+.boxed-group.flush .boxed-group-inner {
+  overflow: hidden;
+  overflow-x: scroll;
+}

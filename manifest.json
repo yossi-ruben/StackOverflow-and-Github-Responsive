@@ -1,0 +1,25 @@
+{
+  "manifest_version": 2,
+
+  "name": "My window resize",
+  "description": "A tool to make github and StackOverFlow resizable",
+  "version": "1.0",
+
+  "browser_action": {
+   "default_icon": "icon128.png"
+   },
+
+   "content_scripts":[
+    {
+      "matches":["https://github.com/*"],
+      "css": ["mygithubstyle.css"]
+    },
+    {
+      "matches": ["http://stackoverflow.com/*"],
+      "css": ["mystackstyle.css"]
+    }
+   ]
+
+
+}
+

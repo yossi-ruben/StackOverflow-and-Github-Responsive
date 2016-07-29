@@ -1,0 +1,13 @@
+#content {
+  max-width:540px ;
+}
+
+.question-summary.narrow{
+  width: 540px !important;
+}
+
+
+
+.subheader {
+  max-width: 540px;
+}
