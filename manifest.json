@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
 
-  "name": "My window resize",
-  "description": "A tool to make github and StackOverFlow resizable",
+  "name": "StackOverflow & Github Responsive",
+  "description": "A tool to make StackOverflow and Github resizable",
   "version": "1.0",
 
   "browser_action": {
