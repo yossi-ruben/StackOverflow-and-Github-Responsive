@@ -5,4 +5,4 @@
 The purpose of this Chrome Extension is to dynamically resize the pages for Github and Stackoverflow. 
 
 ### Problem to Solve
-The issue reveals itself when one has thier text editor, terminal and brower open at the same time and want to view them all at the same time. 
+The issue reveals itself when one has thier text editor, terminal and brower open at the same time and want to view them all at the same time. Github and Stackoverflow do not dynamically resize themselves and rely on the user either clicking on the browser to take up the entire screen or continuously side to side.
